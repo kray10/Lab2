@@ -1,0 +1,33 @@
+body
+{
+  background-color: #D3D3D3;
+  background-image: url(background.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+p
+{
+  color: #615B6D;
+  background-color: #E8E9F0;
+  font-family: arial;
+  font-size: 22pt;
+}
+
+p.websites
+{
+  color: #679B74;
+  background-color: #F0EFBF;
+}
+
+p:hover
+{
+  background-color: #0E68C9;
+  color: #D290AB;
+}
+
+h1
+{
+  color: grey;
+  font-size: 50pt;
+}
